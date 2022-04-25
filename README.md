@@ -1,4 +1,4 @@
-# SwiftStudentChallenge2022
+# Swift Student Challenge 2022 Submission
 My submission for Swift Student Challenge 2022! This was my first time working with lots of things like SpriteKit and because RealityKit didnt work, I also worked with ARQuickLook.
 
 In my playground you need to help a all powerful pigeon across time in order to save the world from it's greatest threat, Climate Change!!
